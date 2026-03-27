@@ -28,12 +28,18 @@ An intelligent automation system built with **Make.com** and **OpenAI** to trans
 ## 📸 Project Preview
 
 ### 1. Workflow Architecture
-![Make Workflow](ссылка_на_твое_первое_фото)
+
+<img width="1734" height="313" alt="Job Application Flow" src="https://github.com/user-attachments/assets/afc276b0-2ba6-4684-a5e8-724df8aceb8c" />
+
 *The end-to-end automation logic in Make.*
 
 ### 2. Structured Database
-![Google Sheets](ссылка_на_твое_второе_фото)
+
+<img width="1559" height="149" alt="Job Applications Table" src="https://github.com/user-attachments/assets/832d6000-69d1-48b7-b8a6-9325c69a5593" />
+
 *Clean, deduplicated data ready for analysis.*
+
+<img width="983" height="438" alt="Job Application in Google Tasks" src="https://github.com/user-attachments/assets/f65c3291-afb7-4dd7-93ad-2ed1918988fd" />
 
 ---
 
